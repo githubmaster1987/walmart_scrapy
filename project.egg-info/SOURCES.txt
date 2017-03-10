@@ -1,0 +1,17 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+walmart/__init__.py
+walmart/items.py
+walmart/pipelines.py
+walmart/settings.py
+walmart/spiders/__init__.py
+walmart/spiders/config_scrapy.py
+walmart/spiders/mysql_manage.py
+walmart/spiders/proxylist.py
+walmart/spiders/useragent.py
+walmart/spiders/walmartspider.1.py
+walmart/spiders/walmartspider.py

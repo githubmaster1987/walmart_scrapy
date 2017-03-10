@@ -1,0 +1,28 @@
+"Pharmacy"								2,724
+
+"Gifts & Registry"						20,102
+"Video Games"							24,001
+"Baby"									93,303
+"Photo Center"							92,825
+"Pets"									95,397
+"Movies & TV"							123,565
+"Musical Instruments"					129,991
+"Food"									136,317
+"Music"									194,197
+"Health"								264,275
+"Beauty"								271,898
+"Household Essentials"					427,108
+"Patio & Garden"						381,331
+"Toys"									456,518
+"Books"									694,398
+"Party & Occasions"						706,765
+"Cell Phones"							855,736
+"Seasonal"								1,193,890
+"Sports & Outdoors"						1,040,692
+"Office"								1,620,146
+"Clothing"								1,428,479
+"Auto & Tires"							1,736,625
+"Home Improvement"						2,050,396
+"Electronics"							2,318,538
+"Jewelry"								2,327,002
+"Home"								 	3,627,900

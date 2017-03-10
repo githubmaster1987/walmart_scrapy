@@ -1,0 +1,25 @@
+digital ocean
+alfred.magcalas@icloud.com 
+OM9N1NkzWfmy
+
+
+159.203.104.84
+upwork1!
+
+
+159.203.113.113
+root
+upwork1!
+
+phpmyadmin
+root/root
+
+mysql
+root/root
+
+ftp
+ftpuser / upwork1!
+
+
+scrapinghub
+magc45/SHpass1029
